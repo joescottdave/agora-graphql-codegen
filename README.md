@@ -1,9 +1,13 @@
-    Config file generated at codegen.ts
+# Agora Graphql Codegen
 
-      $ npm install
+To install the dependencies:
 
-    To install the plugins.
+```sh
+yarn install
+```
 
-      $ npm run codegen
+To run GraphQL Code Generator:
 
-    To run GraphQL Code Generator.
+```sh
+yarn codegen
+```
